@@ -851,8 +851,7 @@
 	/delete-property/ supports-cqe;
 	bus-width = <8>;
 	full-pwr-cycle-in-suspend;
-	mmc-hs400-1_8v;
-	mmc-hs400-enhanced-strobe;
+	mmc-hs200-1_8v;
 	no-sdio;
 	no-sd;
 	non-removable;
