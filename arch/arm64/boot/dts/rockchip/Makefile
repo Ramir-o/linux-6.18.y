@@ -174,6 +174,7 @@ dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-9tripod-x3568-v4.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-anbernic-rg-ds.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-bpi-r2-pro.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-bdy-g18-pro.dtb
+dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-dg-nas-lite.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-dg-tn3568.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-easepi-r1.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3568-ec-x.dtb
